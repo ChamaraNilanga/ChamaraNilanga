@@ -22,64 +22,61 @@ chamaranilanga1999@gmail.com
 
 ---
 
-## 💼 Work Experience
+# 💼 Work Experience
 
-### Onsys Technologies
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
+  <div style="display: inline-block; width: 350px; vertical-align: top; margin-right: 20px; padding: 15px; border-radius: 8px; border-left: 5px solid #4a6ee0; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3>Onsys Technologies</h3>
+    <h4>Software Engineer</h4>
+    <p><strong>📅 2025 Jan - Present</strong></p>
+    <h4>Associate Software Engineer</h4>
+    <p><strong>📅 2024 Apr - 2024 Dec</strong></p>
+    <p>Worked extensively with Spring Boot, React, and Kubernetes in a microservice architecture environment.</p>
+    <div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
+      <strong>Key Responsibilities:</strong>
+      <ul>
+        <li>Collaborated with product managers to define and implement new features</li>
+        <li>Optimized application performance and database queries</li>
+      </ul>
+    </div>
+    <p><strong>Role:</strong> Full Stack Developer</p>
+  </div>
 
-#### Software Engineer
-**📅 2025 Jan -  Present**
+  <div style="display: inline-block; width: 350px; vertical-align: top; margin-right: 20px; padding: 15px; border-radius: 8px; border-left: 5px solid #4a6ee0; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3>Hasthiya IT</h3>
+    <h4>Associate Software Engineer - Part Time</h4>
+    <p><strong>📅 2023 Jun - 2024 Mar</strong></p>
+    <p>I spearheaded web development using NodeJS, ExpressJS, ReactJS, and MySQL, while also contributing to mobile apps with Flutter and Firebase.</p>
+    <div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
+      <strong>Key Achievements:</strong>
+      <ul>
+        <li>Developed and maintained multiple customer-facing web applications</li>
+        <li>Built responsive UI components with React and modern CSS frameworks</li>
+        <li>Implemented RESTful APIs with Node.js and Express</li>
+        <li>Created mobile applications using Flutter and Firebase integration</li>
+      </ul>
+    </div>
+    <p><strong>Role:</strong> Full Stack Developer</p>
+  </div>
 
-#### Associate Software Engineer
-**📅 2024 Apr - 2024 Dec**
-
-Worked extensively with Spring Boot, React, and Kubernetes in a microservice architecture environment.
-
-<div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
-<strong>Key Responsibilities:</strong>
-<ul>
-<li>Collaborated with product managers to define and implement new features</li>
-<li>Optimized application performance and database queries</li>
-</ul>
+  <div style="display: inline-block; width: 350px; vertical-align: top; margin-right: 20px; padding: 15px; border-radius: 8px; border-left: 5px solid #4a6ee0; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <h3>Intervest Software Technologies</h3>
+    <h4>Software Engineer - Intern</h4>
+    <p><strong>📅 2022 - 2023</strong></p>
+    <p>This internship solidified my understanding of full-stack development and industry best practices, enhancing my ability to deliver comprehensive software solutions with Springboot, Java, Javascript, SQL and Enonic CMS.</p>
+    <div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
+      <strong>Achievements:</strong>
+      <ul>
+        <li>Contributed to the development of enterprise web applications</li>
+        <li>Gained hands-on experience with Spring Boot and Java backend development</li>
+        <li>Learned industry best practices for code organization and version control</li>
+      </ul>
+    </div>
+    <p><strong>Role:</strong> Full Stack Developer</p>
+  </div>
 </div>
 
-**Role:** Full Stack Developer
-
-### Hasthiya IT
-
-#### Associate Software Engineer - Part Time
-**📅 2023 Jun - 2024 Mar**
-
-I spearheaded web development using NodeJS, ExpressJS, ReactJS, and MySQL, while also contributing to mobile apps with Flutter and Firebase.
-
-<div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
-<strong>Key Achievements:</strong>
-<ul>
-<li>Developed and maintained multiple customer-facing web applications</li>
-<li>Built responsive UI components with React and modern CSS frameworks</li>
-<li>Implemented RESTful APIs with Node.js and Express</li>
-<li>Created mobile applications using Flutter and Firebase integration</li>
-</ul>
-</div>
-
-**Role:** Full Stack Developer
-
-### Intervest Software Technologies
-
-#### Software Engineer - Intern
-**📅 2022 - 2023**
-
-This internship solidified my understanding of full-stack development and industry best practices, enhancing my ability to deliver comprehensive software solutions with Springboot, Java, Javascript, SQL and Enonic CMS.
-
-<div style="background-color: #f0f7ff; border-radius: 5px; padding: 15px; margin: 10px 0;">
-<strong>Achievements:</strong>
-<ul>
-<li>Contributed to the development of enterprise web applications</li>
-<li>Gained hands-on experience with Spring Boot and Java backend development</li>
-<li>Learned industry best practices for code organization and version control</li>
-</ul>
-</div>
-
-**Role:** Full Stack Developer
+<p style="text-align: center; color: #666; font-style: italic; margin-top: 10px;">← Scroll horizontally to see all experience →</p>
 
 ---
 
