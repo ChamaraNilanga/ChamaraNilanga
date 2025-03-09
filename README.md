@@ -147,31 +147,8 @@ This internship solidified my understanding of full-stack development and indust
 ## 🎓 Education
 
 <div style="background-color: #f8f9fa; border-radius: 5px; padding: 20px; margin: 20px 0;">
-<h3 style="margin-top: 0;">Bachelor of Science in Computer Science</h3>
-<p><strong>University:</strong> University of Sri Lanka</p>
-<p><strong>Graduation Year:</strong> 2023</p>
-<p><strong>Relevant Coursework:</strong> Data Structures, Algorithms, Web Development, Database Systems, Software Engineering, Artificial Intelligence</p>
+<h3 style="margin-top: 0;">Bachelor of Science (Hons) in Information Technology</h3>
+<p><strong>University:</strong> University of Moratuwa</p>
+<p><strong>Graduation Year:</strong> 2024</p>
 </div>
 
----
-
-## 📞 Contact
-
-<div style="background-color: #f0f0f0; border-radius: 8px; padding: 20px; margin: 20px 0; text-align: center;">
-<p>Feel free to reach out for collaboration opportunities or to discuss potential projects.</p>
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 15px;">
-<div>
-<strong>📧 Email:</strong><br>
-chamaranilanga1999@gmail.com
-</div>
-<div>
-<strong>📱 Phone:</strong><br>
-+94 70 27 45 462
-</div>
-</div>
-
-<div style="margin-top: 20px;">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
-</div>
