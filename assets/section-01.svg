@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="64" viewBox="0 0 1000 64" role="img" aria-labelledby="t d"><title id="t">01 · Whoami</title><desc id="d">Section 01: WHOAMI</desc><style>@font-face{font-family:'JBM';font-weight:500;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAV0AA4AAAAAChAAAAUcAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGyAchGwGYD9TVEFUTABaEQgKiByGQAE2AiQDKAsoAAQgBX4HIBsZCFFUcGah+CIhmxNaz0Iz2iuEJhgHRq74KdZtm9ZZPHys0d7/u3viFg9J7s2saYRQ8KglaKMzFzre8Olm/vPvZecmGb5BYU8hp+LSzFL4hyoC2/1aTDEFKGHQXbflPHtY/zuX+f75S9V72YvHooBfLIj/Lmss2h1bMKWUbA+ck0oFLnDBqqLOykV0SPUAzx3PnlWgwRAHtCk9txRKJfwHINBgSiKOmqo71zikH3Ts1oQ43dhnCJTIY6RSrUbNWrUz5SVdg1FmeEnd8J0qqFt1tSE0L9bE0bhJn+kvZ0WOUKdQxNvsBFDcAYEQzO9Tg9RBKaQatebhiPsojhiZRSdiA5T0VqUWIwIk4mv7TgyFMmIXOKIOgFKtAuGrau9CPomau0jbyI+utHERJlMNXvgF4Pz/71TyGTzIivSn0jfMJ88BwduwvI1ZGnPU25OPcSCqKYQGzzDpFoVv7DLtl2G5x3cR17TWEQINF+hj+BZEQv14qLXg15m2UZtMK+igzxAe0r/SiJVWtU4eoJ+QkTfrKmAndo9jCIlEIKm3mId9dyzAUzipzfbOxzDEyI9UyZnx8qgxMiHUSXQBm5pzqXuPIQT+lfrxpBdKfTiIKr4AsQTkAUAhZLQBAiQKdOEFugi2gCZ1UmlMsHDVahsYE+j7uj7wv97dtQuEBgCVkEL8Rw86ATOgC2KnOgNYB1PAUAihLP/DE9KCkGojYgATnYa5xgrKJSkIdri4VikYN856+pT4ic+esdlPnoCb8Phx+exn7tJT9azH1YWfiLPO0sRzbPYZTDjNiMlKSWQCw+liOVt7p7rEI6KJD9Wzblupq7XQlDKvidcLAsW6Yrm4+tw5S4ttV696OB6gbOuJE+aWqzZtImKYsGGDlfnyU6c8xbLSLZcvu5ktPXPGOrtj+aqDB23UK/bvtyobzUaUKbRQCwxlxGRq0sqVb1S0rFUw+U6jE9XEOKxUqoXGqUaotLr0DTV9qEjN249ZLjvq0USNKCWtTENauU7B5GXiIGpGw5bDZkuPuDf2ZiN8VWkt4YaGpPjkiPrW8LT0lnCVTI5P8qN+WmpNZHKKId6w9UUCofuVnau9nYtd9e3sXSE2XLS7uGDotpEzRq1tgLeqfmiDvKh3xurQKMmQEbkmyi3odG9h0bwmT/podyMwKzy+sqlPc0bj0IE4UVkUFZDyaPikNveg1Eox19a5rrxg97ZOSfm8wrqkpcR6xePmlPa3dc9LQFgvozI1yKNt0rBLgSnnke3Ai4NdihXJIYMfIqWvBS8NkK1xsa8kb1r9fXUT5vVVVbmEsrpfIQ3bAElRt8qlPtLzfD+oXM6W5DS4XGnOGeh8tqj3LBuTw3ImBxTbcg4nA1VLm/xSz7g7rFcY081nXmTMxIW5VuoJexx5PBCGvk2O3x2bZklbpN4SHPr6DnZTDzz6uIfvXCs2cQKzOkH31PT9wMd8AcwS/r7s/ZxchRmyJ1Cr+vsDMEv2+zrYf3dgNe7rPpXunxH9/rXPgANbR1vXIs4s48sAFt1gf41rzQiNWK8HQsiV87b78+J6fexV8sVngDcPt60CPr73nPqPgc0ZRFAzDwQ/kmAeYFhwXgVZ/mvkAVTJVi6fs1SXMP/paOu4VoavAftrb2edHiDQKZZgHf5qPt50ZYOeV9ZLLdRGQZMWqOgD0EqfuVgbtUXFWnU3VB+NBhFrV8+81cMQeeJqkdZQfWVJqlEf/Klmxfrrq1E/PPB/QkBYAAAAAA==) format('woff2')}
+@font-face{font-family:'Orb';font-weight:700;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAKcAA8AAAAABTgAAAJDAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbbhwqBmA/U1RBVCoAXBEICoMEgigBNgIkAyALEgAEIAU+ByAbwQMAHgXunh9+iARdWh7Q8fCf3f+3T1X1W32hLw6fsqGdwVg5rBsNnTLuAvjvr0H5fpO3fK/AcDzxIe5Gs91s6wX8KA8tDDgKuyzQ5wPLAu6dimrbLEpRG5t/DxboAkKoBAIh0LaGtaVtt991X/1Tjzr3dH0FmkYgTjnu7NPVCIQiqYVaGCrIlljFpJCFyoQw0Xzbvv1REs0XquYbgbZJ0zvSRXMAKOnC9IqKdG06ELtIlzjc2nEoJQf9c+SHe9gqDsj/7pH/9S8C0rZpjFUkIdQC8wSWSReccOK5AUlAlPQKSMiYJwvMU+yIvloyYRVb2clu9nBAkxjZ8eXmz2986fOf+7g4PY+mMbhCDYaocTIuBBRAEkJIglGnW7rzhv1Odcnbn3d61336ptKOrvYhvbjkznb32tvpVJ3Uy53Szt3UqToF3HEnoK+OPb4X1372VuT8Urr4jU/aR8/0rsiiovU7enFy56BDzHIntg8+cOPtJg//ffLFyf8Pn9zuit7vcs97/8Pq/Oqx6vjqQxuNL1/zqzUvH9PMji8b23B8S1k/r3/r+IrhcNvRNgNvTv5++ORLhexLXvzM5Y8tbcHxDTOqz69/9Bs2l9B6HvnmhurzE1/6xYFAsvWP6/x9PYNN/69z/gs+yr214I+fpq6wOuXcNBYmJBC8h97lPqubKufexfg6/jMvb2vjvI+NfGE2P2zDvKn1s1isTV5bo2qLGspmZVFakhpfCLrqnypqbO0MpzrWAY5zkhOc6FwZaO63NgAAAAA=) format('woff2')}
+@font-face{font-family:'Orb';font-weight:900;font-style:normal;src:url(data:font/woff2;base64,d09GMgABAAAAAAHcAA4AAAAAA5wAAAGHAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGyAcKgZgP1NUQVQqADwRCAqBDIEYATYCJAMQCwoABCAFTgcgG6cCAK4OeNMbKUu2LE9x/hCMUMl5eNrf/689cx71ITUrwY50jD/LVU7SzSGjzwRFOemToMJPNSlanP86OcEIWu4Hjg7CkbVliZZQwBS4yUagGZi7JEPtC1TropuYNmPeQpUKKAV0lH4GSLH6nesO7tahWYMiHcunlJEupKWYu0ditVGxUkhwnuP3uK6HkflLqY78xRcEpGnpHnpIQqgUaBXoIh3ZsvVgQBIQ5fkUSMholQVaFQagXCEkPYwsRQ8jSksvS/cFIESpBlCAShQYjNGAApAFbRUVlTUXnjyJfPzp05q6i48fS8cePaquXRJ1x49HXhtbapWviTyuekVNcXOAQ6q/AZg84AdoDtAf4wSyeGkTUXvtrAk1E+Gzt5U3Xzd9DwgkU64c9XtNw7hvlTm/gxu5biS8edY/Qfqb7qFcAsF/OUUIjZECAFDEV615itFxVsQUBAq9ZRAAAMgGyaKoktQzJqhV3y9XrZP5NtnikJ3W2W+JTbbZYquDpvCzDXbIQIlRAgA=) format('woff2')}
+
+text{text-rendering:geometricPrecision}
+.blink{animation:blink 1.06s steps(1) infinite}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.run{animation:run 7s linear infinite}
+@keyframes run{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+.scan{animation:scan 7s linear infinite}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.2s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.45;transform:scale(.72)}}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2.2s ease-out infinite}
+@keyframes ping{0%{opacity:.8;transform:scale(1)}100%{opacity:0;transform:scale(2.6)}}
+.fadein{animation:fadein .7s ease-out both}
+@keyframes fadein{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+
+@keyframes spin{to{transform:rotate(360deg)}}</style><defs>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<filter id="blur8" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="8"/></filter>
+<linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF2E97"/></linearGradient>
+<linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00E5FF" stop-opacity="0"/><stop offset=".8" stop-color="#00E5FF" stop-opacity=".06"/><stop offset=".96" stop-color="#00E5FF" stop-opacity=".15"/><stop offset="1" stop-color="#00E5FF" stop-opacity="0"/></linearGradient>
+<pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#ffffff" opacity=".018"/></pattern>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#6f86c9" opacity=".13"/></pattern><clipPath id="frame"><path d="M12,0 H988 A12,12 0 0 1 1000,12 V52 A12,12 0 0 1 988,64 H12 A12,12 0 0 1 0,52 V12 A12,12 0 0 1 12,0 Z"/></clipPath></defs><path d="M12,0 H988 A12,12 0 0 1 1000,12 V52 A12,12 0 0 1 988,64 H12 A12,12 0 0 1 0,52 V12 A12,12 0 0 1 12,0 Z" fill="#060913"/>
+<rect x="0" y="0" width="1000" height="64" fill="url(#dots)" clip-path="url(#frame)"/>
+<polygon points="38.00,13.00 54.45,22.50 54.45,41.50 38.00,51.00 21.55,41.50 21.55,22.50" fill="#00E5FF" fill-opacity=".08" stroke="#00E5FF" stroke-width="1.6"/>
+<polygon points="38.00,7.00 59.65,19.50 59.65,44.50 38.00,57.00 16.35,44.50 16.35,19.50" fill="none" stroke="#00E5FF" stroke-opacity=".3" stroke-dasharray="3 4" style="transform-origin:38px 32px;animation:spin 14s linear infinite"/>
+<text x="38.0" y="37.0" font-family="Orb, 'Segoe UI', Arial, sans-serif" font-weight="900" font-size="13" fill="#00E5FF" text-anchor="middle">01</text>
+<text x="78.0" y="40.0" font-family="Orb, 'Segoe UI', Arial, sans-serif" font-weight="700" font-size="20" fill="#E8EEFA" letter-spacing="3">WHOAMI</text>
+<rect x="196.7" y="38" width="12" height="3" fill="#00E5FF" class="blink"/>
+<line x1="226.7" y1="32" x2="850" y2="32" stroke="#1D2A4D" stroke-width="1.5"/>
+<path d="M226.7,32 H850" stroke="url(#edge)" stroke-width="2" pathLength="1000" stroke-dasharray="140 860" class="run" style="animation-duration:3.6s" filter="url(#glow)"/>
+<rect x="858" y="28" width="2" height="8" fill="#00E5FF" opacity="0.20"/>
+<rect x="863" y="28" width="2" height="8" fill="#00E5FF" opacity="0.36"/>
+<rect x="868" y="28" width="2" height="8" fill="#00E5FF" opacity="0.52"/>
+<rect x="873" y="28" width="2" height="8" fill="#00E5FF" opacity="0.68"/>
+<rect x="878" y="28" width="2" height="8" fill="#00E5FF" opacity="0.84"/>
+<text x="974.0" y="36.5" font-family="JBM, Consolas, 'Courier New', monospace" font-weight="500" font-size="12" fill="#5C6892" text-anchor="end" letter-spacing="1">[ 01 / 05 ]</text>
+<path d="M12.75,0.75 H987.25 A12,12 0 0 1 999.25,12.75 V51.25 A12,12 0 0 1 987.25,63.25 H12.75 A12,12 0 0 1 0.75,51.25 V12.75 A12,12 0 0 1 12.75,0.75 Z" fill="none" stroke="#1D2A4D" stroke-width="1.5"/></svg>
