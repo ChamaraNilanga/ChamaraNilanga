@@ -1,11 +1,3 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  CHAMARA KARUNARATHNA · animated profile README                  ║
-  ║  All visuals are self-contained animated SVGs in ./assets        ║
-  ║  → Replace the LinkedIn "#" link below with your profile URL      ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
-
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Chamara Karunarathna — Software Engineer"/>
 </p>
@@ -29,7 +21,7 @@
 <p align="center">
   <a href="mailto:chamaranilanga1999@gmail.com"><img src="./assets/contact-mail.svg" width="100%" alt="Mail: chamaranilanga1999@gmail.com"/></a>
   <img src="./assets/contact-phone.svg" width="100%" alt="Phone: +94 70 27 45 462"/>
-  <a href="#"><img src="./assets/contact-linkedin.svg" width="100%" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/chamarank/"><img src="./assets/contact-linkedin.svg" width="100%" alt="LinkedIn"/></a>
 </p>
 
 <br/>
